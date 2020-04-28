@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/verihub/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/verihub/static/js/main.29f8dcef.chunk.js",
-    "main.js.map": "/verihub/static/js/main.29f8dcef.chunk.js.map",
-    "runtime-main.js": "/verihub/static/js/runtime-main.9c6f97b8.js",
-    "runtime-main.js.map": "/verihub/static/js/runtime-main.9c6f97b8.js.map",
-    "static/css/2.8d06fd47.chunk.css": "/verihub/static/css/2.8d06fd47.chunk.css",
-    "static/js/2.c288a6c0.chunk.js": "/verihub/static/js/2.c288a6c0.chunk.js",
-    "static/js/2.c288a6c0.chunk.js.map": "/verihub/static/js/2.c288a6c0.chunk.js.map",
-    "index.html": "/verihub/index.html",
-    "precache-manifest.b1b3c98fe70d55c8a8729f721cfdb5d2.js": "/verihub/precache-manifest.b1b3c98fe70d55c8a8729f721cfdb5d2.js",
-    "service-worker.js": "/verihub/service-worker.js",
-    "static/css/2.8d06fd47.chunk.css.map": "/verihub/static/css/2.8d06fd47.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/verihub/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.c288a6c0.chunk.js.LICENSE.txt": "/verihub/static/js/2.c288a6c0.chunk.js.LICENSE.txt"
+    "main.css": "/verihubs/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/verihubs/static/js/main.f7d8c427.chunk.js",
+    "main.js.map": "/verihubs/static/js/main.f7d8c427.chunk.js.map",
+    "runtime-main.js": "/verihubs/static/js/runtime-main.1c5402d9.js",
+    "runtime-main.js.map": "/verihubs/static/js/runtime-main.1c5402d9.js.map",
+    "static/css/2.8d06fd47.chunk.css": "/verihubs/static/css/2.8d06fd47.chunk.css",
+    "static/js/2.5dd5e1be.chunk.js": "/verihubs/static/js/2.5dd5e1be.chunk.js",
+    "static/js/2.5dd5e1be.chunk.js.map": "/verihubs/static/js/2.5dd5e1be.chunk.js.map",
+    "index.html": "/verihubs/index.html",
+    "precache-manifest.badf735062191e41a8796790a44fd785.js": "/verihubs/precache-manifest.badf735062191e41a8796790a44fd785.js",
+    "service-worker.js": "/verihubs/service-worker.js",
+    "static/css/2.8d06fd47.chunk.css.map": "/verihubs/static/css/2.8d06fd47.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/verihubs/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.5dd5e1be.chunk.js.LICENSE.txt": "/verihubs/static/js/2.5dd5e1be.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c6f97b8.js",
+    "static/js/runtime-main.1c5402d9.js",
     "static/css/2.8d06fd47.chunk.css",
-    "static/js/2.c288a6c0.chunk.js",
+    "static/js/2.5dd5e1be.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.29f8dcef.chunk.js"
+    "static/js/main.f7d8c427.chunk.js"
   ]
 }
