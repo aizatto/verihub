@@ -1,24 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
+import { Verihub } from './components/verihub';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App" style={{margin: '1rem'}}>
+      <Verihub />
+      <div>
+        You can use <code><a href="http://ngrok.io/">ngrok</a></code> to host files on your computer:
+        <p>To serve a directory, use the terminal:</p>
+        <div>
+          <code>bash</code>/<code>zsh</code>:
+          <pre>./ngrok file file://`pwd`</pre>
+          <code>fish</code>:
+          <pre>./ngrok file file://(pwd)</pre>
+        </div>
+      </div>
     </div>
   );
 }
